@@ -9,8 +9,8 @@ Write your code in this editor and press "Run" button to compile and execute it.
 #include <iostream>
 
 int main() {
-    int num1 = 72;
-    int num2 = 220;
+    int num1 = 50;
+    int num2 = 100;
     
     int total = num1 + num2;
 
