@@ -18,8 +18,8 @@ Restored it back to its original values, even though the test table also records
 
 | Program | Value Used | Expected Results | Actual Output | Match or Fix |
 | --- | --- | --- | --- |  --- |
-| sum.cpp — assigned values | 50,100 | 150 | 150 | Match |
-| sum.cpp — changed values | 72,220 | 292 | 292 | Match |
+| sum.cpp — assigned values | 50, 100 | 150 | 150 | Match |
+| sum.cpp — changed values | 72, 220 | 292 | 292 | Match |
 | mpg.cpp — assigned values | 312 miles; 16 gallons | 19.5 MPG | 19.5 MPG | Match |
 | mpg.cpp — changed values | 220 miles; 9 gallons | 24.4 MPG | 24.4444 MPG | Match |
 
