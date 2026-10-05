@@ -11,7 +11,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 int main() {
     int num1 = 50;
     int num2 = 100;
-    
+
     int total = num1 + num2;
 
     std::cout << "Sum: " << total << '\n';
