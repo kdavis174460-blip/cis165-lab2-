@@ -9,8 +9,8 @@ Write your code in this editor and press "Run" button to compile and execute it.
 #include <iostream>
 
 int main() {
-    double gallons = 9.0;
-    double miles = 220.0;
+    double gallons = 16.0;
+    double miles = 312.0;
     
     double milesPerGallon = miles / gallons;
 
