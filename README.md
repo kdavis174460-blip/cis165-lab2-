@@ -1,7 +1,7 @@
 # cis165-lab2-
 Course section: CIS-165-W099
 # Step-by-Step Process
-    sum.ccp: 
+	sum.ccp: 
     Stores 2 values(50,100) in integer variables 
     Use addition to add both values together and store it in a sum variable called total 
     Display the total and label the output 
